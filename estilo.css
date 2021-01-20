@@ -1,3 +1,5 @@
+
+
 #home {
 	background: #000000;
 	color: white;
@@ -53,8 +55,12 @@ h4 {
 }
 
 #carousel-home {
-	width: 1000px;
 	margin: 0 auto;
 	padding-bottom: 20px;
 
+}
+
+.test2 {
+	width: 100% !important;
+	padding-left: 25px;
 }
